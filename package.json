@@ -7,9 +7,9 @@
   "devDependencies": {
     "basecamp-linux": "file:app/",
     "electron": "^1.7.5",
-    "electron-packager": "^9.0.1",
+    "electron-packager": "^10.1.0",
     "eslint": "^4.6.1",
-    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.7.0",
     "lzma-native": "^3.0.1",
     "minimist": "^1.2.0",
