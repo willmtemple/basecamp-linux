@@ -4,6 +4,8 @@
 
 # Basecamp Desktop for Linux
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/arturock/basecamp-linux.svg)](https://greenkeeper.io/)
+
 Unofficial [Basecamp](https://basecamp.com/) GNU/Linux desktop client built with [Electron](http://electron.atom.io/).
 
 ## Features
